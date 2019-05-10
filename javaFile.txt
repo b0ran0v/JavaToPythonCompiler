@@ -1,0 +1,11 @@
+String h = "Hello";
+int n = 10;
+int count = 1;
+while(n>1){
+    if(n%2==0){
+        if(n>2){
+            count = count + 1;
+        }
+    }
+}
+n = 20;
